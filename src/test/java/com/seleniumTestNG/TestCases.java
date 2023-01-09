@@ -29,7 +29,7 @@ public class TestCases {
     @Test
     public void testTitle() {
         String actualTitle=driver.getTitle();
-        String expectedTitle="OrangeHRM";
+        String expectedTitle="OrangeHRM1";
         Assert.assertEquals(actualTitle, expectedTitle);
     }
 
