@@ -8,7 +8,8 @@
                     <include name="testCopyRightsLink"/>
                     <include name="testLogout"/>
                 </methods>
-                -->
+
+            <class name="shop.TestLogin">-->
             </class>
         </classes>
     </test>
